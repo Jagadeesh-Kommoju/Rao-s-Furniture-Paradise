@@ -1,0 +1,39 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Testing & Playwright transients
+/coverage
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Next.js build output
+/.next/
+/out/
+/build
+
+# Misc & OS
+.DS_Store
+*.pem
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Local environment secrets
+.env*
+
+# TypeScript generated artifacts
+*.tsbuildinfo
+next-env.d.ts
+
+# Verification PNG screenshots (keep JSON telemetry + docs/ reports tracked cleanly)
+/artifacts/**/*.png

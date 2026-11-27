@@ -1,0 +1,4105 @@
+{
+  "geometry1440": {
+    "viewport": {
+      "width": 1440,
+      "height": 900,
+      "scrollHeight": 12374
+    },
+    "body": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 12374,
+      "padding": "0px 0px 0px 0px",
+      "margin": "0px 0px 0px 0px",
+      "gap": "normal",
+      "fontFamily": "robotoregular, Arial, Helvetica, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "border": "0px solid rgb(229, 229, 229)",
+      "boxShadow": "none",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "color": "rgb(10, 10, 10)",
+      "zIndex": "auto",
+      "display": "block",
+      "gridTemplateColumns": "none"
+    },
+    "utilityBar": {
+      "x": 100,
+      "y": 12,
+      "width": 1240,
+      "height": 27,
+      "padding": "0px 0px 0px 0px",
+      "margin": "0px 0px 0px 0px",
+      "gap": "normal",
+      "fontFamily": "robotoregular, Arial, Helvetica, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "border": "0px solid rgb(229, 229, 229)",
+      "boxShadow": "none",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(10, 10, 10)",
+      "zIndex": "auto",
+      "display": "flex",
+      "gridTemplateColumns": "none"
+    },
+    "header": {
+      "x": 0,
+      "y": 51,
+      "width": 1440,
+      "height": 139,
+      "padding": "30px 0px 0px 0px",
+      "margin": "0px 0px 0px 0px",
+      "gap": "normal",
+      "fontFamily": "robotoregular, Arial, Helvetica, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "border": "0px solid rgb(229, 229, 229)",
+      "boxShadow": "none",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "color": "rgb(10, 10, 10)",
+      "zIndex": "39",
+      "display": "block",
+      "gridTemplateColumns": "none"
+    },
+    "searchBoxWrap": {
+      "x": 356,
+      "y": 81,
+      "width": 693,
+      "height": 46,
+      "padding": "0px 0px 0px 0px",
+      "margin": "0px 0px 0px 0px",
+      "gap": "normal",
+      "fontFamily": "robotoregular, Arial, Helvetica, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "border": "0px solid rgb(229, 229, 229)",
+      "boxShadow": "none",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(10, 10, 10)",
+      "zIndex": "auto",
+      "display": "flex",
+      "gridTemplateColumns": "none"
+    },
+    "navUl": {
+      "x": 100,
+      "y": 151,
+      "width": 1240,
+      "height": 38,
+      "padding": "0px 0px 0px 0px",
+      "margin": "0px 0px 0px 0px",
+      "gap": "normal",
+      "fontFamily": "robotoregular, Arial, Helvetica, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "border": "0px solid rgb(229, 229, 229)",
+      "boxShadow": "none",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(10, 10, 10)",
+      "zIndex": "auto",
+      "display": "flex",
+      "gridTemplateColumns": "none"
+    },
+    "navLinks": [
+      {
+        "text": "SofasSofaAll SofasFabric SofasWooden Sofas3 Seater Sofas2 Seater Sofas1 Seater Sofas3+1+1 Sofa SetsSofa Cum BedsL Shaped SofasChaise LoungersOutdoor SofasDiwansSofa Cum BedAll Sofa Cum BedsWooden Sofa Cum BedsFabric Sofa Cum BedsReclinersAll Recliners1 Seater Recliners2 Seater Recliners3 Seater ReclinersSeatingLounge ChairsAccent ChairsArm ChairWingback ChairsLoveseatsBenchesOttomansStools",
+        "rect": {
+          "w": 60,
+          "h": 38
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "SofaAll SofasFabric SofasWooden Sofas3 Seater Sofas2 Seater Sofas1 Seater Sofas3+1+1 Sofa SetsSofa Cum BedsL Shaped SofasChaise LoungersOutdoor SofasDiwans",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Sofa",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All Sofas",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Fabric Sofas",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wooden Sofas",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "3 Seater Sofas",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "2 Seater Sofas",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "1 Seater Sofas",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "3+1+1 Sofa Sets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Sofa Cum Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "L Shaped Sofas",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Chaise Loungers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Outdoor Sofas",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Diwans",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Sofa Cum BedAll Sofa Cum BedsWooden Sofa Cum BedsFabric Sofa Cum BedsReclinersAll Recliners1 Seater Recliners2 Seater Recliners3 Seater Recliners",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Sofa Cum Bed",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All Sofa Cum Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wooden Sofa Cum Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Fabric Sofa Cum Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Recliners",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All Recliners",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "1 Seater Recliners",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "2 Seater Recliners",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "3 Seater Recliners",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "SeatingLounge ChairsAccent ChairsArm ChairWingback ChairsLoveseatsBenchesOttomansStools",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Seating",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Lounge Chairs",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Accent Chairs",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Arm Chair",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wingback Chairs",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Loveseats",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Benches",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Ottomans",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Stools",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "LivingAll SofasFabric SofasWooden Sofas3 Seater Sofas2 Seater Sofas1 Seater SofasSofa SetsL Shaped SofasChaise LoungersDiwansSofa Cum BedsAll Sofa Cum BedsWooden Sofa Cum BedsFabric Sofa Cum BedsReclinersAll Recliners1 Seater Recliners2 Seater Recliners3 Seater ReclinersChairsAll ChairsLounge ChairsArm ChairsWing ChairsSwing ChairRocking ChairsSeatingStoolsBenchesLoveseatsOttomans & PouffesRoom DividersTablesAll TablesCoffee TablesCoffee Table SetsSide TablesNesting TablesConsole TableLaptop TablesTV UnitsAll TV UnitsSolid Wood TV UnitsEngineered Wood TV UnitsHome TemplesLiving StorageBookshelvesChest of DrawersCabinet & SideboardsDisplay UnitsWall ShelvesHome TemplesShoe RacksFurnishingRugs And CarpetsSofa CoversCushion CoversCushion FillersTable RunnersFloor Runners",
+        "rect": {
+          "w": 97,
+          "h": 38
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All SofasFabric SofasWooden Sofas3 Seater Sofas2 Seater Sofas1 Seater SofasSofa SetsL Shaped SofasChaise LoungersDiwansSofa Cum BedsAll Sofa Cum BedsWooden Sofa Cum BedsFabric Sofa Cum BedsReclinersAll Recliners1 Seater Recliners2 Seater Recliners3 Seater Recliners",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All Sofas",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Fabric Sofas",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wooden Sofas",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "3 Seater Sofas",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "2 Seater Sofas",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "1 Seater Sofas",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Sofa Sets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "L Shaped Sofas",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Chaise Loungers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Diwans",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Sofa Cum Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All Sofa Cum Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wooden Sofa Cum Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Fabric Sofa Cum Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Recliners",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All Recliners",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "1 Seater Recliners",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "2 Seater Recliners",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "3 Seater Recliners",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "ChairsAll ChairsLounge ChairsArm ChairsWing ChairsSwing ChairRocking ChairsSeatingStoolsBenchesLoveseatsOttomans & PouffesRoom Dividers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Chairs",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All Chairs",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Lounge Chairs",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Arm Chairs",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wing Chairs",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Swing Chair",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Rocking Chairs",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Seating",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Stools",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Benches",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Loveseats",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Ottomans & Pouffes",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Room Dividers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "TablesAll TablesCoffee TablesCoffee Table SetsSide TablesNesting TablesConsole TableLaptop TablesTV UnitsAll TV UnitsSolid Wood TV UnitsEngineered Wood TV UnitsHome Temples",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Tables",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All Tables",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Coffee Tables",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Coffee Table Sets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Side Tables",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Nesting Tables",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Console Table",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Laptop Tables",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "TV Units",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All TV Units",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Solid Wood TV Units",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Engineered Wood TV Units",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Home Temples",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Living StorageBookshelvesChest of DrawersCabinet & SideboardsDisplay UnitsWall ShelvesHome TemplesShoe RacksFurnishingRugs And CarpetsSofa CoversCushion CoversCushion FillersTable RunnersFloor Runners",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Living Storage",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Bookshelves",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Chest of Drawers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Cabinet & Sideboards",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Display Units",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wall Shelves",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Home Temples",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Shoe Racks",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Furnishing",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Rugs And Carpets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Sofa Covers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Cushion Covers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Cushion Fillers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Table Runners",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Floor Runners",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "BedroomBedsAll BedsSolid Wood BedsEngineered Wood BedsUpholstered BedsHydraulic Storage BedsPoster BedsKids BedsBy SizeKing Size BedsQueen Size BedsDouble BedsSingle BedsSofa Cum BedsWooden Sofa Cum BedsFabric Sofa Cum BedsL Shaped Sofa Cum BedsWardrobesAll WardrobesSolid Wood WardrobesEngineered Wood Wardrobes1 Door Wardrobes2 Door Wardrobes3 Door Wardrobes4+ Door WardrobesSliding DoorBedroom TablesBedside TablesDressing TablesBreakfast TablesTrunk & Blanket BoxRugs and CarpetMattresses & PillowsAll MattressKing Size MattressQueen Size MattressDouble Bed MattressMattress ProtectorsPillowsBedding EssentialsBedsheets",
+        "rect": {
+          "w": 119,
+          "h": 38
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "BedsAll BedsSolid Wood BedsEngineered Wood BedsUpholstered BedsHydraulic Storage BedsPoster BedsKids Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Solid Wood Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Engineered Wood Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Upholstered Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Hydraulic Storage Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Poster Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Kids Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "By SizeKing Size BedsQueen Size BedsDouble BedsSingle BedsSofa Cum BedsWooden Sofa Cum BedsFabric Sofa Cum BedsL Shaped Sofa Cum Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "By Size",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "King Size Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Queen Size Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Double Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Single Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Sofa Cum Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wooden Sofa Cum Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Fabric Sofa Cum Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "L Shaped Sofa Cum Beds",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "WardrobesAll WardrobesSolid Wood WardrobesEngineered Wood Wardrobes1 Door Wardrobes2 Door Wardrobes3 Door Wardrobes4+ Door WardrobesSliding Door",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wardrobes",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All Wardrobes",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Solid Wood Wardrobes",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Engineered Wood Wardrobes",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "1 Door Wardrobes",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "2 Door Wardrobes",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "3 Door Wardrobes",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "4+ Door Wardrobes",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Sliding Door",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Bedroom TablesBedside TablesDressing TablesBreakfast TablesTrunk & Blanket BoxRugs and Carpet",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Bedroom Tables",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Bedside Tables",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Dressing Tables",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Breakfast Tables",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Trunk & Blanket Box",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Rugs and Carpet",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Mattresses & PillowsAll MattressKing Size MattressQueen Size MattressDouble Bed MattressMattress ProtectorsPillowsBedding EssentialsBedsheets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Mattresses & Pillows",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All Mattress",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "King Size Mattress",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Queen Size Mattress",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Double Bed Mattress",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Mattress Protectors",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Pillows",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Bedding Essentials",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Bedsheets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "MattressMattress By SizeAll MattressesKing Size MattressQueen Size MattressDouble Bed MattressPenguin Sleep SeriesOrtho Zen MattressDream Lux MattressBamboo Bliss MattressMattress By MaterialMemory Foam MattressFoam MattressLatex MattressCool Gel MattressMattress By NeedOrthopedic SupportNatural LivingHybrid ComfortCompact LivingPillow By MaterialAll PillowsMemory Foam PillowPillow By NeedCervical PillowCuddle PillowBody PillowMattress AccessoriesMattress Protectors",
+        "rect": {
+          "w": 115,
+          "h": 38
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Mattress By SizeAll MattressesKing Size MattressQueen Size MattressDouble Bed MattressPenguin Sleep SeriesOrtho Zen MattressDream Lux MattressBamboo Bliss Mattress",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Mattress By Size",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All Mattresses",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "King Size Mattress",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Queen Size Mattress",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Double Bed Mattress",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Penguin Sleep Series",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Ortho Zen Mattress",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Dream Lux Mattress",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Bamboo Bliss Mattress",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Mattress By MaterialMemory Foam MattressFoam MattressLatex MattressCool Gel MattressMattress By NeedOrthopedic SupportNatural LivingHybrid ComfortCompact Living",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Mattress By Material",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Memory Foam Mattress",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Foam Mattress",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Latex Mattress",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Cool Gel Mattress",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Mattress By Need",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Orthopedic Support",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Natural Living",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Hybrid Comfort",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Compact Living",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Pillow By MaterialAll PillowsMemory Foam PillowPillow By NeedCervical PillowCuddle PillowBody Pillow",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Pillow By Material",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All Pillows",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Memory Foam Pillow",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Pillow By Need",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Cervical Pillow",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Cuddle Pillow",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Body Pillow",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Mattress AccessoriesMattress Protectors",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Mattress Accessories",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Mattress Protectors",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "DiningDining Room FurnitureDining SetsAll Dining Table Sets6 Seater Dining Sets4 Seater Dining Sets2 Seater Dining Sets8 Seater Dining SetsFolding/Extendable Dining SetsBy MaterialWooden Dining SetsMarble Dining SetsMetal Dining SetsDining ChairsAll Dining ChairsWooden Dining ChairsFabric Dining ChairsDining BenchesDining TablesRugs and CarpetCoversChair CoversTable MatsTable RunnersKitchen Storage & OrganisersAll Kitchen StorageCabinets & SideboardsChest of DrawersKitchen CabinetsKitchen RacksMicrowave StandsKitchen TrolleysServewareServing TraysCutlery HoldersTissue BoxBar FurnitureBar CabinetsWine TrolleysBar Table Sets",
+        "rect": {
+          "w": 99,
+          "h": 38
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Dining Room FurnitureDining SetsAll Dining Table Sets6 Seater Dining Sets4 Seater Dining Sets2 Seater Dining Sets8 Seater Dining SetsFolding/Extendable Dining SetsBy MaterialWooden Dining SetsMarble Dining SetsMetal Dining Sets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Dining Room Furniture",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Dining Sets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All Dining Table Sets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "6 Seater Dining Sets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "4 Seater Dining Sets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "2 Seater Dining Sets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "8 Seater Dining Sets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Folding/Extendable Dining Sets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "By Material",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wooden Dining Sets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Marble Dining Sets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Metal Dining Sets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Dining ChairsAll Dining ChairsWooden Dining ChairsFabric Dining ChairsDining BenchesDining TablesRugs and CarpetCoversChair CoversTable MatsTable Runners",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Dining Chairs",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All Dining Chairs",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wooden Dining Chairs",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Fabric Dining Chairs",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Dining Benches",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Dining Tables",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Rugs and Carpet",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Covers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Chair Covers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Table Mats",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Table Runners",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Kitchen Storage & OrganisersAll Kitchen StorageCabinets & SideboardsChest of DrawersKitchen CabinetsKitchen RacksMicrowave StandsKitchen TrolleysServewareServing TraysCutlery HoldersTissue Box",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Kitchen Storage & Organisers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All Kitchen Storage",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Cabinets & Sideboards",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Chest of Drawers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Kitchen Cabinets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Kitchen Racks",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Microwave Stands",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Kitchen Trolleys",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Serveware",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Serving Trays",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Cutlery Holders",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Tissue Box",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Bar FurnitureBar CabinetsWine TrolleysBar Table Sets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Bar Furniture",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Bar Cabinets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wine Trolleys",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Bar Table Sets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "StorageTV UnitsAll TV UnitsSolid Wood TV UnitsEngineered Wood TV UnitsShoe RacksSolid Wood Shoe RacksModular Shoe RacksLiving StorageBookshelvesChest of DrawersCabinet & SideboardsDisplay UnitsWall ShelvesHome TemplesWardrobesAll WardrobesSolid Wood WardrobesEngineered Wood Wardrobes1 Door Wardrobes2 Door Wardrobes3 Door Wardrobes4+ Door WardrobesSliding DoorBedroom StorageDressing TableChest of DrawersBedside TablesShowcaseTrunk & Blanket BoxKitchen StorageKitchen CabinetsKitchen TrolleyCrockery UnitKitchen RacksMicrowave StandHutch CabinetsBar FurnitureBar CabinetsBar Trolleys",
+        "rect": {
+          "w": 110,
+          "h": 38
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "TV UnitsAll TV UnitsSolid Wood TV UnitsEngineered Wood TV UnitsShoe RacksSolid Wood Shoe RacksModular Shoe RacksLiving StorageBookshelvesChest of DrawersCabinet & SideboardsDisplay UnitsWall ShelvesHome Temples",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "TV Units",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All TV Units",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Solid Wood TV Units",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Engineered Wood TV Units",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Shoe Racks",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Solid Wood Shoe Racks",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Modular Shoe Racks",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Living Storage",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Bookshelves",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Chest of Drawers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Cabinet & Sideboards",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Display Units",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wall Shelves",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Home Temples",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "WardrobesAll WardrobesSolid Wood WardrobesEngineered Wood Wardrobes1 Door Wardrobes2 Door Wardrobes3 Door Wardrobes4+ Door WardrobesSliding DoorBedroom StorageDressing TableChest of DrawersBedside TablesShowcaseTrunk & Blanket Box",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wardrobes",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All Wardrobes",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Solid Wood Wardrobes",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Engineered Wood Wardrobes",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "1 Door Wardrobes",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "2 Door Wardrobes",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "3 Door Wardrobes",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "4+ Door Wardrobes",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Sliding Door",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Bedroom Storage",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Dressing Table",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Chest of Drawers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Bedside Tables",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Showcase",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Trunk & Blanket Box",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Kitchen StorageKitchen CabinetsKitchen TrolleyCrockery UnitKitchen RacksMicrowave StandHutch CabinetsBar FurnitureBar CabinetsBar Trolleys",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Kitchen Storage",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Kitchen Cabinets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Kitchen Trolley",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Crockery Unit",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Kitchen Racks",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Microwave Stand",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Hutch Cabinets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Bar Furniture",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Bar Cabinets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Bar Trolleys",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Study & OfficeTablesStudy TablesComputer TablesLaptop TablesFolding Study TablesCorner Study TableWall Mounted Study TableHeight Adjustable TableOffice TablesSeating & ChairsOffice ChairsStudy ChairsGaming ChairsExecutive & Director ChairsCafeteria & Visitor ChairsOffice SofasStorageFile CabinetsOffice BookcasesWall Shelves",
+        "rect": {
+          "w": 154,
+          "h": 38
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "TablesStudy TablesComputer TablesLaptop TablesFolding Study TablesCorner Study TableWall Mounted Study TableHeight Adjustable TableOffice Tables",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Tables",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Study Tables",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Computer Tables",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Laptop Tables",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Folding Study Tables",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Corner Study Table",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wall Mounted Study Table",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Height Adjustable Table",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Office Tables",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Seating & ChairsOffice ChairsStudy ChairsGaming ChairsExecutive & Director ChairsCafeteria & Visitor ChairsOffice Sofas",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Seating & Chairs",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Office Chairs",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Study Chairs",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Gaming Chairs",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Executive & Director Chairs",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Cafeteria & Visitor Chairs",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Office Sofas",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "StorageFile CabinetsOffice BookcasesWall Shelves",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Storage",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "File Cabinets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Office Bookcases",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wall Shelves",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "OutdoorBalcony FurnitureBalcony SetsBalcony ChairsBalcony TablesSwingsOutdoor FurnitureAll Outdoor SetsTable & Chair SetsSofa SetsLoungersHome GardenArtificial FlowersArtificial Plants",
+        "rect": {
+          "w": 114,
+          "h": 38
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Balcony FurnitureBalcony SetsBalcony ChairsBalcony TablesSwings",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Balcony Furniture",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Balcony Sets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Balcony Chairs",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Balcony Tables",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Swings",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Outdoor FurnitureAll Outdoor SetsTable & Chair SetsSofa SetsLoungers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Outdoor Furniture",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All Outdoor Sets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Table & Chair Sets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Sofa Sets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Loungers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Home GardenArtificial FlowersArtificial Plants",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Home Garden",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Artificial Flowers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Artificial Plants",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Decor & FurnishingWall DecorWall ShelvesKey HoldersWall MirrorWall PaintingsWall ArtsJharokhasClocksWall ClocksBathroom AccessoriesSoap Dispenser SetsHome ImprovementRoom DividersSpiritualHome TemplesMirrorsAll MirrorsWall MirrorFull Length MirrorsTable DecorVasesArtificial FlowersShowpieces & FigurinesCandle HoldersDesk OrganisersLampsAll LampsFloor LampsTable LampsChandeliersAll LampsAll ChandeliersChandelier FansLightsHanging LightsFurnishingSofa CoversChair CoversCushion CoversBed SheetsRugs & CarpetsFabrics",
+        "rect": {
+          "w": 181,
+          "h": 38
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wall DecorWall ShelvesKey HoldersWall MirrorWall PaintingsWall ArtsJharokhasClocksWall ClocksBathroom AccessoriesSoap Dispenser SetsHome ImprovementRoom Dividers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wall Decor",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wall Shelves",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Key Holders",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wall Mirror",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wall Paintings",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wall Arts",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Jharokhas",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Clocks",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wall Clocks",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Bathroom Accessories",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Soap Dispenser Sets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Home Improvement",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Room Dividers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "SpiritualHome TemplesMirrorsAll MirrorsWall MirrorFull Length MirrorsTable DecorVasesArtificial FlowersShowpieces & FigurinesCandle HoldersDesk Organisers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Spiritual",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Home Temples",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Mirrors",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All Mirrors",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Wall Mirror",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Full Length Mirrors",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Table Decor",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Vases",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Artificial Flowers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Showpieces & Figurines",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Candle Holders",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Desk Organisers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "LampsAll LampsFloor LampsTable LampsChandeliersAll LampsAll ChandeliersChandelier FansLightsHanging Lights",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Lamps",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All Lamps",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Floor Lamps",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Table Lamps",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Chandeliers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All Lamps",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "All Chandeliers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Chandelier Fans",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Lights",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Hanging Lights",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "FurnishingSofa CoversChair CoversCushion CoversBed SheetsRugs & CarpetsFabrics",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Furnishing",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Sofa Covers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Chair Covers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Cushion Covers",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Bed Sheets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Rugs & Carpets",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "Fabrics",
+        "rect": {
+          "w": 0,
+          "h": 0
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "InteriorsTransform your home’s style with  our innovative Design20,000+ happy customersBranded Hardware and MaterialsUp to 10-years* material warrantyStringent Quality ChecksModular KitchenStarting From ₹1,49,999Modular WardrobeStarting From ₹49,999",
+        "rect": {
+          "w": 112,
+          "h": 38
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      },
+      {
+        "text": "New Arrivals",
+        "rect": {
+          "w": 80,
+          "h": 38
+        },
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "hasIcon": false
+      }
+    ],
+    "breadcrumb": {
+      "x": 0,
+      "y": 190,
+      "width": 1440,
+      "height": 32,
+      "padding": "8px 0px 8px 0px",
+      "margin": "0px 0px 0px 0px",
+      "gap": "normal",
+      "fontFamily": "robotoregular, Arial, Helvetica, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "border": "0px solid rgb(229, 229, 229)",
+      "boxShadow": "none",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(10, 10, 10)",
+      "zIndex": "auto",
+      "display": "block",
+      "gridTemplateColumns": "none"
+    },
+    "heroWrap": {
+      "x": 100,
+      "y": 222,
+      "width": 1240,
+      "height": 399,
+      "padding": "0px 0px 0px 0px",
+      "margin": "0px 100px 0px 100px",
+      "gap": "normal",
+      "fontFamily": "robotoregular, Arial, Helvetica, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "border": "0px solid rgb(229, 229, 229)",
+      "boxShadow": "none",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(10, 10, 10)",
+      "zIndex": "auto",
+      "display": "block",
+      "gridTemplateColumns": "none"
+    },
+    "heroImg": {
+      "x": 100,
+      "y": 222,
+      "width": 1240,
+      "height": 399,
+      "padding": "0px 0px 0px 0px",
+      "margin": "0px 0px 20px 0px",
+      "gap": "normal",
+      "fontFamily": "robotoregular, Arial, Helvetica, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "borderRadius": "4px",
+      "border": "0px none rgb(229, 229, 229)",
+      "boxShadow": "none",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgba(0, 0, 0, 0)",
+      "zIndex": "auto",
+      "display": "block",
+      "gridTemplateColumns": "none"
+    },
+    "trustStrip": {
+      "x": 100,
+      "y": 641,
+      "width": 1240,
+      "height": 120,
+      "padding": "20px 28px 20px 28px",
+      "margin": "0px 100px 0px 100px",
+      "gap": "8px",
+      "fontFamily": "robotoregular, Arial, Helvetica, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "borderRadius": "6px",
+      "border": "0px solid rgb(229, 229, 229)",
+      "boxShadow": "none",
+      "backgroundColor": "rgb(243, 244, 246)",
+      "color": "rgb(10, 10, 10)",
+      "zIndex": "auto",
+      "display": "flex",
+      "gridTemplateColumns": "none"
+    },
+    "h1": {
+      "x": 100,
+      "y": 805,
+      "width": 1240,
+      "height": 32,
+      "padding": "0px 0px 0px 0px",
+      "margin": "0px 0px 0px 0px",
+      "gap": "normal",
+      "fontFamily": "red_hat_displayregular",
+      "fontSize": "28px",
+      "fontWeight": "400",
+      "lineHeight": "32px",
+      "letterSpacing": "0.7px",
+      "borderRadius": "0px",
+      "border": "0px solid rgb(229, 229, 229)",
+      "boxShadow": "none",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "zIndex": "auto",
+      "display": "block",
+      "gridTemplateColumns": "none"
+    },
+    "tabsContainer": {
+      "x": 100,
+      "y": 881,
+      "width": 1240,
+      "height": 40,
+      "padding": "0px 12px 0px 12px",
+      "margin": "0px 0px 0px 0px",
+      "gap": "8px",
+      "fontFamily": "robotoregular, Arial, Helvetica, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "border": "0px solid rgb(229, 229, 229)",
+      "boxShadow": "none",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "color": "rgb(115, 115, 115)",
+      "zIndex": "auto",
+      "display": "flex",
+      "gridTemplateColumns": "none"
+    },
+    "firstTab": {
+      "x": 419,
+      "y": 884,
+      "width": 67,
+      "height": 34,
+      "padding": "6px 24px 6px 24px",
+      "margin": "0px 0px 0px 0px",
+      "gap": "normal",
+      "fontFamily": "\"Red Hat Display Medium\"",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "lineHeight": "20px",
+      "letterSpacing": "0.35px",
+      "borderRadius": "9999px",
+      "border": "1px solid rgb(227, 122, 52)",
+      "boxShadow": "none",
+      "backgroundColor": "rgb(227, 122, 52)",
+      "color": "rgb(255, 255, 255)",
+      "zIndex": "auto",
+      "display": "flex",
+      "gridTemplateColumns": "none"
+    },
+    "catGridPanel": {
+      "x": 100,
+      "y": 929,
+      "width": 1240,
+      "height": 541,
+      "padding": "0px 0px 0px 0px",
+      "margin": "8px 0px 0px 0px",
+      "gap": "normal",
+      "fontFamily": "robotoregular, Arial, Helvetica, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "border": "0px solid rgb(229, 229, 229)",
+      "boxShadow": "none",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(10, 10, 10)",
+      "zIndex": "auto",
+      "display": "block",
+      "gridTemplateColumns": "none"
+    },
+    "firstCatImg": {
+      "x": 0,
+      "y": 7,
+      "width": 0,
+      "height": 0,
+      "padding": "0px 0px 0px 0px",
+      "margin": "0px 0px 0px 0px",
+      "gap": "normal",
+      "fontFamily": "robotoregular, Arial, Helvetica, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "border": "0px none rgb(229, 229, 229)",
+      "boxShadow": "none",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgba(0, 0, 0, 0)",
+      "zIndex": "auto",
+      "display": "block",
+      "gridTemplateColumns": "none"
+    },
+    "highlightsWrap": {
+      "x": 0,
+      "y": 1514,
+      "width": 1440,
+      "height": 372,
+      "padding": "40px 0px 40px 0px",
+      "margin": "20px 0px 40px 0px",
+      "gap": "normal",
+      "fontFamily": "robotoregular, Arial, Helvetica, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "border": "0px solid rgb(229, 229, 229)",
+      "boxShadow": "none",
+      "backgroundColor": "rgb(245, 245, 245)",
+      "color": "rgb(10, 10, 10)",
+      "zIndex": "auto",
+      "display": "block",
+      "gridTemplateColumns": "none"
+    },
+    "promoStrip": {
+      "x": 100,
+      "y": 1926,
+      "width": 1240,
+      "height": 140,
+      "padding": "0px 0px 0px 0px",
+      "margin": "0px 100px 0px 100px",
+      "gap": "normal",
+      "fontFamily": "robotoregular, Arial, Helvetica, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "border": "0px solid rgb(229, 229, 229)",
+      "boxShadow": "none",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(10, 10, 10)",
+      "zIndex": "auto",
+      "display": "block",
+      "gridTemplateColumns": "none"
+    },
+    "livingSection": {
+      "x": 100,
+      "y": 2086,
+      "width": 1240,
+      "height": 1299,
+      "padding": "0px 0px 0px 0px",
+      "margin": "0px 100px 0px 100px",
+      "gap": "normal",
+      "fontFamily": "robotoregular, Arial, Helvetica, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "border": "0px solid rgb(229, 229, 229)",
+      "boxShadow": "none",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(10, 10, 10)",
+      "zIndex": "auto",
+      "display": "block",
+      "gridTemplateColumns": "none"
+    },
+    "livingProductsH2": {
+      "x": 112,
+      "y": 2910,
+      "width": 328,
+      "height": 25,
+      "padding": "0px 0px 0px 0px",
+      "margin": "0px 0px 0px 0px",
+      "gap": "normal",
+      "fontFamily": "red_hat_displayregular",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "lineHeight": "25px",
+      "letterSpacing": "1px",
+      "borderRadius": "0px",
+      "border": "0px solid rgb(229, 229, 229)",
+      "boxShadow": "none",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "zIndex": "auto",
+      "display": "block",
+      "gridTemplateColumns": "none"
+    },
+    "sampleProductCard": null,
+    "sampleProductCardImg": null,
+    "faqWrap": {
+      "x": 0,
+      "y": 10945,
+      "width": 1440,
+      "height": 431,
+      "padding": "48px 0px 48px 0px",
+      "margin": "0px 0px 0px 0px",
+      "gap": "normal",
+      "fontFamily": "robotoregular, Arial, Helvetica, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "border": "",
+      "boxShadow": "none",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(10, 10, 10)",
+      "zIndex": "auto",
+      "display": "block",
+      "gridTemplateColumns": "none"
+    },
+    "footer": {
+      "x": 88,
+      "y": 11562,
+      "width": 1264,
+      "height": 325,
+      "padding": "0px 0px 0px 0px",
+      "margin": "0px -12px 0px -12px",
+      "gap": "normal",
+      "fontFamily": "robotoregular, Arial, Helvetica, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "borderRadius": "0px",
+      "border": "0px solid rgb(229, 229, 229)",
+      "boxShadow": "none",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgb(10, 10, 10)",
+      "zIndex": "auto",
+      "display": "flex",
+      "gridTemplateColumns": "none"
+    }
+  },
+  "vpStats": [
+    {
+      "viewport": "1920x1080",
+      "group": "desktop",
+      "scrollWidth": 1920,
+      "innerWidth": 1920,
+      "scrollHeight": 12664,
+      "headerH": 139
+    },
+    {
+      "viewport": "1440x900",
+      "group": "desktop",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "scrollHeight": 12456,
+      "headerH": 139
+    },
+    {
+      "viewport": "1366x768",
+      "group": "desktop",
+      "scrollWidth": 1366,
+      "innerWidth": 1366,
+      "scrollHeight": 12387,
+      "headerH": 139
+    },
+    {
+      "viewport": "1280x800",
+      "group": "desktop",
+      "scrollWidth": 1280,
+      "innerWidth": 1280,
+      "scrollHeight": 12781,
+      "headerH": 139
+    },
+    {
+      "viewport": "1024x768",
+      "group": "tablet",
+      "scrollWidth": 1024,
+      "innerWidth": 1024,
+      "scrollHeight": 12933,
+      "headerH": 138
+    },
+    {
+      "viewport": "768x1024",
+      "group": "tablet",
+      "scrollWidth": 768,
+      "innerWidth": 768,
+      "scrollHeight": 13930,
+      "headerH": 138
+    },
+    {
+      "viewport": "430x932",
+      "group": "mobile",
+      "scrollWidth": 430,
+      "innerWidth": 430,
+      "scrollHeight": 14171,
+      "headerH": null
+    },
+    {
+      "viewport": "390x844",
+      "group": "mobile",
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "scrollHeight": 14082,
+      "headerH": null
+    },
+    {
+      "viewport": "375x812",
+      "group": "mobile",
+      "scrollWidth": 375,
+      "innerWidth": 375,
+      "scrollHeight": 14134,
+      "headerH": null
+    },
+    {
+      "viewport": "360x800",
+      "group": "mobile",
+      "scrollWidth": 360,
+      "innerWidth": 360,
+      "scrollHeight": 14157,
+      "headerH": null
+    }
+  ]
+}

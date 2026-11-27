@@ -1,0 +1,83 @@
+@import "tailwindcss";
+@import "../styles/tokens.css";
+
+@theme inline {
+  --color-walnut: #4A3025;
+  --color-walnut-dark: #362219;
+  --color-terracotta: #B5683C;
+  --color-terracotta-hover: #9C562F;
+  --color-ivory: #FAF7F2;
+  --color-beige: #E9DED0;
+  --color-charcoal: #242424;
+  --color-muted: #5C5852;
+  --color-surface: #FFFFFF;
+  --color-surface-subtle: #F5F3EF;
+  --color-border-soft: #E6DFD6;
+
+  --font-sans: var(--font-plus-jakarta), system-ui, -apple-system, sans-serif;
+  --font-display: var(--font-red-hat), var(--font-plus-jakarta), system-ui, sans-serif;
+}
+
+:root {
+  --brand-walnut: #4A3025;
+  --brand-terracotta: #B5683C;
+  --brand-ivory: #FAF7F2;
+  --brand-beige: #E9DED0;
+  --brand-charcoal: #242424;
+  --brand-white: #FFFFFF;
+  --container-max: 1272px;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: clip;
+}
+
+body {
+  background-color: var(--brand-white);
+  color: var(--brand-charcoal);
+  font-family: var(--font-sans);
+  overflow-x: clip;
+  -webkit-font-smoothing: antialiased;
+}
+
+.container-storefront {
+  width: 100%;
+  max-width: var(--container-max);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+
+@media (min-width: 768px) {
+  .container-storefront {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .container-storefront {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+/* Custom thin horizontal scrollbar for mobile category strips */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

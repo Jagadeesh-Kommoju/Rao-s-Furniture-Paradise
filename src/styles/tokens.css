@@ -1,0 +1,101 @@
+/*
+ * Design System Tokens — Rao's Furniture Paradise
+ * Geometry, layout spacing, typography scale, borders, and breakpoints
+ * extracted from REA & Playwright reference measurements of WoodenStreet
+ * Visakhapatnam, paired with Rao's approved brand color palette.
+ */
+
+:root {
+  /* ---------------- Brand Color Palette ---------------- */
+  --brand-walnut: #4A3025;
+  --brand-walnut-dark: #362219;
+  --brand-terracotta: #B5683C;
+  --brand-terracotta-hover: #9C562F;
+  --brand-ivory: #FAF7F2;
+  --brand-beige: #E9DED0;
+  --brand-charcoal: #242424;
+  --brand-ink-heading: #333333;
+  --brand-muted: #5C5852;
+  --brand-white: #FFFFFF;
+
+  /* ---------------- Reference Surface & Border Tokens ---------------- */
+  --surface-page: #FFFFFF;
+  --surface-neutral-strip: #F3F4F6;
+  --surface-highlights: #F5F5F5;
+  --surface-subtle: #F5F3EF;
+  --surface-footer: #F4F1EC;
+  --border-soft: #E6DFD6;
+  --border-input: #D4CCC1;
+  --border-light: #E5E5E5;
+
+  /* ---------------- Container & Layout Geometry ---------------- */
+  --container-max: 1240px;
+  --ref-container-desktop: 1240px;
+  --ref-section-gap-sm: 16px;
+  --ref-section-gap-md: 20px;
+  --ref-section-gap-lg: 40px;
+
+  /* ---------------- Header & Navigation Dimensions ---------------- */
+  --ref-utility-row-height: 27px;
+  --ref-utility-bar-height: 39px;
+  --ref-header-height: 139px;
+  --ref-main-header-height: 70px;
+  --ref-nav-height: 38px;
+  --ref-search-width-desktop: 693px;
+  --ref-search-height: 46px;
+  --ref-breadcrumb-height: 32px;
+
+  /* ---------------- Section-Specific Reference Heights ---------------- */
+  --ref-hero-height-desktop: 399px;
+  --ref-trust-strip-height-desktop: 120px;
+  --ref-trust-strip-padding-desktop: 20px 28px;
+  --ref-trust-strip-gap: 8px;
+  --ref-tabs-container-height: 40px;
+  --ref-tab-pill-height: 34px;
+  --ref-cat-grid-height-desktop: 541px;
+  --ref-highlights-padding-desktop: 40px 0px;
+  --ref-highlights-min-height: 372px;
+  --ref-promo-strip-height-desktop: 140px;
+  --ref-faq-padding-desktop: 48px 0px;
+
+  /* ---------------- Typography Scale ---------------- */
+  --font-size-utility: 12px;
+  --font-size-breadcrumb: 12.5px;
+  --font-size-nav: 14px;
+  --font-size-body: 14px;
+  --font-size-tab: 14px;
+  --font-size-product-title: 14px;
+  --font-size-section-sub: 20px;
+  --font-size-h2: 24px;
+  --font-size-h1: 28px;
+  --line-height-h1: 32px;
+  --letter-spacing-h1: 0.7px;
+  --line-height-h2-sub: 25px;
+  --letter-spacing-h2-sub: 1px;
+
+  /* ---------------- Radii & Elevation ---------------- */
+  --radius-hero: 4px;
+  --radius-card: 6px;
+  --radius-tile: 4px;
+  --radius-tab: 9999px;
+  --radius-input: 6px;
+  --shadow-card-subtle: 0 1px 4px rgba(0, 0, 0, 0.06);
+  --shadow-header-sticky: 0 2px 10px rgba(36, 36, 36, 0.05);
+  --shadow-dropdown: 0 16px 36px rgba(36, 36, 36, 0.14);
+
+  /* ---------------- Icon Sizes & Timing ---------------- */
+  --icon-sm: 14px;
+  --icon-md: 18px;
+  --icon-lg: 20px;
+  --icon-trust-circle: 48px;
+  --transition-fast: 150ms cubic-bezier(0.22, 1, 0.36, 1);
+  --transition-base: 250ms cubic-bezier(0.22, 1, 0.36, 1);
+  --transition-slow: 400ms cubic-bezier(0.22, 1, 0.36, 1);
+
+  /* ---------------- Z-Index Scale ---------------- */
+  --z-base: 1;
+  --z-sticky: 39;
+  --z-header: 40;
+  --z-dropdown: 50;
+  --z-modal: 70;
+}

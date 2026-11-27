@@ -1,0 +1,39 @@
+{
+  "name": "raos-furniture-paradise",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Rao's Furniture Paradise — Visakhapatnam Furniture Showroom Storefront (Phase 1)",
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "embla-carousel-react": "^8.6.0",
+    "gsap": "^3.15.1",
+    "lucide-react": "^1.81.0",
+    "next": "^15.5.29",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "tailwind-merge": "^3.7.1",
+    "zustand": "^5.1.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@tailwindcss/postcss": "^4.3.5",
+    "@types/node": "^26.6.11",
+    "@types/pngjs": "^6.0.5",
+    "@types/react": "^19.3.3",
+    "@types/react-dom": "^19.3.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^15.5.29",
+    "pixelmatch": "^8.0.0",
+    "pngjs": "^7.0.0",
+    "tailwindcss": "^4.3.5",
+    "typescript": "^6.0.3"
+  }
+}

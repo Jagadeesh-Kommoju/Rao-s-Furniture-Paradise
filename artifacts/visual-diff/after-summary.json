@@ -1,0 +1,272 @@
+{
+  "mode": "after",
+  "generatedAt": "2026-11-27T07:09:54.643Z",
+  "averages": {
+    "rawPixelMismatchPct": 44.67,
+    "structuralSimilarityPct": 53.5,
+    "geometryAlignmentPct": 99.12
+  },
+  "pairs": [
+    {
+      "name": "desktop-1920x1080-fold",
+      "dimensions": "1920x1080",
+      "rawMismatchPct": 31.99,
+      "normalizedMismatchPct": 31.99,
+      "structuralSimilarityPct": 67.11,
+      "masksApplied": []
+    },
+    {
+      "name": "desktop-1440x900-fold",
+      "dimensions": "1440x900",
+      "rawMismatchPct": 30.42,
+      "normalizedMismatchPct": 31.56,
+      "structuralSimilarityPct": 71.96,
+      "masksApplied": [
+        "ref-chat-fab",
+        "ref-prohibited-countdown-emi"
+      ]
+    },
+    {
+      "name": "desktop-1366x768-fold",
+      "dimensions": "1366x768",
+      "rawMismatchPct": 36.54,
+      "normalizedMismatchPct": 36.54,
+      "structuralSimilarityPct": 68.11,
+      "masksApplied": []
+    },
+    {
+      "name": "desktop-1280x800-fold",
+      "dimensions": "1280x800",
+      "rawMismatchPct": 36.1,
+      "normalizedMismatchPct": 36.1,
+      "structuralSimilarityPct": 69.85,
+      "masksApplied": []
+    },
+    {
+      "name": "tablet-1024x768-fold",
+      "dimensions": "1024x768",
+      "rawMismatchPct": 38.89,
+      "normalizedMismatchPct": 38.89,
+      "structuralSimilarityPct": 58.52,
+      "masksApplied": []
+    },
+    {
+      "name": "tablet-768x1024-fold",
+      "dimensions": "768x1024",
+      "rawMismatchPct": 37.58,
+      "normalizedMismatchPct": 37.58,
+      "structuralSimilarityPct": 59.33,
+      "masksApplied": []
+    },
+    {
+      "name": "mobile-430x932-fold",
+      "dimensions": "430x932",
+      "rawMismatchPct": 47.57,
+      "normalizedMismatchPct": 47.57,
+      "structuralSimilarityPct": 39.57,
+      "masksApplied": []
+    },
+    {
+      "name": "mobile-390x844-fold",
+      "dimensions": "390x844",
+      "rawMismatchPct": 50.47,
+      "normalizedMismatchPct": 47.09,
+      "structuralSimilarityPct": 45.75,
+      "masksApplied": [
+        "ref-mobile-chat-fab",
+        "ref-mobile-prohibited-countdown"
+      ]
+    },
+    {
+      "name": "mobile-375x812-fold",
+      "dimensions": "375x812",
+      "rawMismatchPct": 49.52,
+      "normalizedMismatchPct": 49.52,
+      "structuralSimilarityPct": 38.66,
+      "masksApplied": []
+    },
+    {
+      "name": "mobile-360x800-fold",
+      "dimensions": "360x800",
+      "rawMismatchPct": 48.76,
+      "normalizedMismatchPct": 48.76,
+      "structuralSimilarityPct": 39.36,
+      "masksApplied": []
+    },
+    {
+      "name": "comp-header-hero-1440",
+      "dimensions": "1440x900",
+      "rawMismatchPct": 30.42,
+      "normalizedMismatchPct": 30.42,
+      "structuralSimilarityPct": 70.43,
+      "masksApplied": []
+    },
+    {
+      "name": "comp-sticky-nav-1440",
+      "dimensions": "1440x900",
+      "rawMismatchPct": 33.19,
+      "normalizedMismatchPct": 33.19,
+      "structuralSimilarityPct": 62.15,
+      "masksApplied": []
+    },
+    {
+      "name": "comp-categories-1440",
+      "dimensions": "1440x900",
+      "rawMismatchPct": 41.08,
+      "normalizedMismatchPct": 41.08,
+      "structuralSimilarityPct": 60,
+      "masksApplied": []
+    },
+    {
+      "name": "comp-living-bento-1440",
+      "dimensions": "1440x900",
+      "rawMismatchPct": 78.65,
+      "normalizedMismatchPct": 78.65,
+      "structuralSimilarityPct": 26.64,
+      "masksApplied": []
+    },
+    {
+      "name": "comp-product-carousel-1440",
+      "dimensions": "1440x900",
+      "rawMismatchPct": 78.83,
+      "normalizedMismatchPct": 78.83,
+      "structuralSimilarityPct": 25,
+      "masksApplied": []
+    }
+  ],
+  "geometry": {
+    "checks": [
+      {
+        "key": "header",
+        "metric": "height",
+        "ref": 139,
+        "loc": 130,
+        "tol": 8,
+        "delta": 9,
+        "pass": false,
+        "score": 99.3
+      },
+      {
+        "key": "utilityBar",
+        "metric": "height",
+        "ref": 27,
+        "loc": 39,
+        "tol": 8,
+        "delta": 12,
+        "pass": false,
+        "score": 90
+      },
+      {
+        "key": "searchBoxWrap",
+        "metric": "height",
+        "ref": 46,
+        "loc": 46,
+        "tol": 4,
+        "delta": 0,
+        "pass": true,
+        "score": 100
+      },
+      {
+        "key": "navUl",
+        "metric": "height",
+        "ref": 38,
+        "loc": 38,
+        "tol": 4,
+        "delta": 0,
+        "pass": true,
+        "score": 100
+      },
+      {
+        "key": "breadcrumb",
+        "metric": "height",
+        "ref": 32,
+        "loc": 33,
+        "tol": 4,
+        "delta": 1,
+        "pass": true,
+        "score": 100
+      },
+      {
+        "key": "heroWrap",
+        "metric": "height",
+        "ref": 399,
+        "loc": 399,
+        "tol": 8,
+        "delta": 0,
+        "pass": true,
+        "score": 100
+      },
+      {
+        "key": "heroWrap",
+        "metric": "width",
+        "ref": 1240,
+        "loc": 1240,
+        "tol": 8,
+        "delta": 0,
+        "pass": true,
+        "score": 100
+      },
+      {
+        "key": "trustStrip",
+        "metric": "height",
+        "ref": 120,
+        "loc": 120,
+        "tol": 8,
+        "delta": 0,
+        "pass": true,
+        "score": 100
+      },
+      {
+        "key": "h1",
+        "metric": "y",
+        "ref": 805,
+        "loc": 781,
+        "tol": 18,
+        "delta": 24,
+        "pass": false,
+        "score": 99.3
+      },
+      {
+        "key": "h1",
+        "metric": "fontSize",
+        "ref": 28,
+        "loc": 28,
+        "tol": 2,
+        "delta": 0,
+        "pass": true,
+        "score": 100
+      },
+      {
+        "key": "tabsContainer",
+        "metric": "height",
+        "ref": 40,
+        "loc": 40,
+        "tol": 6,
+        "delta": 0,
+        "pass": true,
+        "score": 100
+      },
+      {
+        "key": "promoStrip",
+        "metric": "height",
+        "ref": 140,
+        "loc": 140,
+        "tol": 12,
+        "delta": 0,
+        "pass": true,
+        "score": 100
+      },
+      {
+        "key": "highlightsWrap",
+        "metric": "height",
+        "ref": 372,
+        "loc": 379,
+        "tol": 18,
+        "delta": 7,
+        "pass": true,
+        "score": 100
+      }
+    ],
+    "avgGeoScore": 99.12
+  }
+}
